@@ -1,0 +1,6 @@
+Green Leaf Stores Capstone Project (Excel)
+•	Problem Statement: GreenLeaf Stores, an eco-friendly home products retailer, lacked consistent KPIs and relied on ad-hoc reports, leaving leadership unable to track sales, customer behavior, or shipping performance.
+•	Data Preparation: Standardized raw datasets by fixing mixed casing in names, filling missing unit prices, and creating a single source-of-truth dataset.
+•	KPI Definition: Established core KPIs including Monthly Revenue, Average Order Value (AOV), Delivery Success Rate, and Customer Retention.
+•	Dashboard Build: Developed an automated Excel dashboard with pivot tables, charts, and slicers, enabling leadership to self-refresh reports on demand.
+•	Impact: Aligned teams around a shared performance language, reduced reliance on gut instinct, and empowered leaders to make data-backed pricing, marketing, and inventory decisions.
